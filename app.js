@@ -2,7 +2,7 @@
 const firebaseConfig = {
       apiKey: "AIzaSyC3d5hTIgGdAQh_kaFFZ_p1tQoD14NVAoQ",
   authDomain: "thesis-5578f.firebaseapp.com",
-  databaseURL: "https://thesis-5578f-default-rtdb.firebaseio.com",
+  databaseURL: "https://thesis-5578f-default-rtdb.firebaseio.com/",
   projectId: "thesis-5578f",
   storageBucket: "thesis-5578f.appspot.com",
   messagingSenderId: "875410958551",
